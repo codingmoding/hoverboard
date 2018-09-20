@@ -3,7 +3,7 @@
     "name": "GDG Tashkent",
     "twitter": "gdgtashkent",
     "blog": "/",
-    "url": "https://devfestio.firebaseapp.com/"
+    "url": "https://devfest-18.firebaseapp.com/"
   },
   "startDate": "2017-11-24T09:00:00+05:00",
   "endDate": "2017-11-24T19:00:00+05:00",
@@ -53,8 +53,8 @@
     },
     "speakers": {
       "title": "Speakers",
-      "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
-      "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
+      "metaDescription": "Hear from the Experts, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
+      "description": "Hear from the Experts, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
       "background": {
         "color": "#FFF"
       },
@@ -138,15 +138,15 @@
     "follow": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest_tashkent/"
+        "url": "https://www.facebook.com/gdgtashkent/"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_tashkent/"
+        "url": "https://twitter.com/gdgtashkent/"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/devfest_tashkent"
+        "url": "https://www.instagram.com/gdgtashkent"
       }
     ],
     "share": [
