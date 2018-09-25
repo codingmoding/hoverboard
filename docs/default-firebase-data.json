@@ -20,14 +20,14 @@
     }
   },
   "gallery" : [
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4185.jpg?alt=media&token=ff3fd161-3d68-401a-90cd-74b90bd2a4d8",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4411.jpg?alt=media&token=7fda0d66-a631-4816-bd85-b93ef49ed3a6",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4577.jpg?alt=media&token=f14205b5-be75-447c-8bca-73a15ca2df41",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4525.jpg?alt=media&token=0428f0e3-fda0-4119-8249-69f98e936ce5",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4611.jpg?alt=media&token=b080143c-161c-4d9f-96f3-ebb6bdcdfd95",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4720.jpg?alt=media&token=75de0c2d-8bd9-48bb-9117-1349c9bc381f",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_4646.jpg?alt=media&token=eafb0320-6f21-47bc-8ba4-8eec708f2076",
-    "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fgallery%2Fimg_5294.jpg?alt=media&token=72ab5141-d21b-4e71-a58b-faa2b00d1d02"
+    "https://firebasestorage.googleapis.com/v0/b/devfestio.appspot.com/o/IMG_9238.jpg?alt=media&token=10eb2f92-0bb1-432c-a958-ff01b9137944",
+    "https://firebasestorage.googleapis.com/v0/b/devfestio.appspot.com/o/IMG_9223.jpg?alt=media&token=4f6d44e3-7476-4d98-9630-77eaf0f58595",
+    "https://firebasestorage.googleapis.com/v0/b/devfestio.appspot.com/o/IMG_8819.jpg?alt=media&token=065c1ea4-80bf-4e46-aded-a4f3be96e7a1",
+    "https://firebasestorage.googleapis.com/v0/b/devfestio.appspot.com/o/IMG_9069.jpg?alt=media&token=da96440e-8e7b-454c-9b49-f5642e715a3a",
+    "https://firebasestorage.googleapis.com/v0/b/devfestio.appspot.com/o/IMG_8959.jpg?alt=media&token=fb7a05c2-e8e5-400c-9575-31c5a7c0bede",
+    "https://firebasestorage.googleapis.com/v0/b/devfestio.appspot.com/o/18556606_10155142773187040_8558390453723991371_o.jpg?alt=media&token=a613a8c7-49b1-4dea-a4e0-df7711e20163",
+    "https://firebasestorage.googleapis.com/v0/b/devfestio.appspot.com/o/IMG_9121.jpg?alt=media&token=74c15695-3b82-47f3-a29c-d3c45d821557",
+    "https://firebasestorage.googleapis.com/v0/b/devfestio.appspot.com/o/IMG_8703.JPG?alt=media&token=684bf0f5-3355-4102-b613-f400afe304e1"
   ],
   "notifications" : {
     "config" : {
@@ -1397,8 +1397,8 @@
       "title" : "GDG Tashkent leader"
     }, {
       "name" : "Miryakub Mirzakhmedov",
-      "photo" : "/images/people/sofiya_huts.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/project-4008939318649506790.appspot.com/o/424758_10151206321667040_1351737972_n.jpg?alt=media&token=14b6f842-c80f-44c7-8f4b-bd9a5b1525f7",
+      "photo" : "/images/people/miryakub.png",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/project-4008939318649506790.appspot.com/o/miryakub.png?alt=media&token=52f99ffd-f538-4c2a-8d25-64711faf67f2",
       "socials" : [],
       "title" : "University representative & main coordinator"
     }, {
@@ -1539,9 +1539,9 @@
     "currency" : "UZS",
     "ends" : "May 12",
     "inDemand" : true,
-    "info" : "Or first 150 tickets",
+    "info" : "Or first 200 tickets",
     "name" : "Early Bird",
-    "price" : "XXXXXX",
+    "price" : "99000",
     "primary" : false,
     "regular" : true,
     "soldOut" : false,
@@ -1554,7 +1554,7 @@
     "inDemand" : false,
     "info" : "Or first 300 tickets",
     "name" : "Regular",
-    "price" : "XXXXXX",
+    "price" : "129000",
     "primary" : true,
     "regular" : true,
     "soldOut" : false,
