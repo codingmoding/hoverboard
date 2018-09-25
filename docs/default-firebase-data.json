@@ -56,6 +56,8 @@
       "name" : "Inha University in Tashkent",
       "url" : "https://inha.uz"
     }],
+    "title" : "General Partner"
+    } ],  
   "schedule" : {
     "2016-09-09" : {
       "dateReadable" : "September 9",
@@ -1539,7 +1541,7 @@
     "inDemand" : true,
     "info" : "Or first 150 tickets",
     "name" : "Early Bird",
-    "price" : "89 000",
+    "price" : "XXXXXX",
     "primary" : false,
     "regular" : true,
     "soldOut" : false,
@@ -1552,7 +1554,7 @@
     "inDemand" : false,
     "info" : "Or first 300 tickets",
     "name" : "Regular",
-    "price" : "109 000",
+    "price" : "XXXXXX",
     "primary" : true,
     "regular" : true,
     "soldOut" : false,
